@@ -1,0 +1,3 @@
+rootProject.name = 'cs_evolution_of_comp_2041'
+
+include ':app'
